@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.movie-heading{
+    text-align: center;
+    margin: 30px 0px;
+}
+.filter-data{
+    width: 90%;
+    margin:30px  auto;
+    display: flex;
+    gap: 20px;
+}
+.data-no{
+    text-align: center;
+    margin: 0 auto;
+}
